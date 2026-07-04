@@ -1,4 +1,4 @@
-#  Simple Rule-Based Chatbot (Python)
+#  Simple Rule-Based Chatbot 
 
 ##  Overview
 
